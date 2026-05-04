@@ -1,4 +1,4 @@
-kpi,test_type,hypothesis_direction,observed_result,test_value,control_value,difference_value,p_value_display,decision,significant_0.05,business_interpretation
+kpi,test_type,alternative,observed_direction,test_value,control_value,difference_value,p_value_display,decision,significant_0.05,business_interpretation
 Completion Rate,Two-proportion z-test,Test > Control,Test > Control,0.5407,0.4826,0.0581,<0.0001,Reject H0,True,Test improved the main success metric.
 Completion Rate with 5% Threshold,Two-proportion z-test with 5% threshold,Test - Control > 5%,Test > Control,0.5407,0.4826,0.0581,0.0202,Reject H0,True,Test passed the minimum practical improvement threshold.
 Friction Rate,Two-proportion z-test,Test < Control,Test < Control,0.6805,0.6938,-0.0132,0.0002,Reject H0,True,"Test slightly reduced the broad friction rate, mainly by reducing abandonment."
