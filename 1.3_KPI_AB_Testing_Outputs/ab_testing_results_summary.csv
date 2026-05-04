@@ -1,7 +1,7 @@
-kpi,test_type,alternative,observed_direction,test_value,control_value,difference_value,p_value_display,decision,significant_0.05,business_interpretation
+kpi,test_type,hypothesis_direction,observed_result,test_value,control_value,difference_value,p_value_display,decision,significant_0.05,business_interpretation
 Completion Rate,Two-proportion z-test,Test > Control,Test > Control,0.5407,0.4826,0.0581,<0.0001,Reject H0,True,Test improved the main success metric.
 Completion Rate with 5% Threshold,Two-proportion z-test with 5% threshold,Test - Control > 5%,Test > Control,0.5407,0.4826,0.0581,0.0202,Reject H0,True,Test passed the minimum practical improvement threshold.
-Friction Rate,Two-proportion z-test,Test < Control,Test < Control,0.6805,0.6938,-0.0132,0.0002,Reject H0,True,"Test slightly reduced friction, although friction remains high overall."
+Friction Rate,Two-proportion z-test,Test < Control,Test < Control,0.6805,0.6938,-0.0132,0.0002,Reject H0,True,"Test slightly reduced the broad friction rate, mainly by reducing abandonment."
 Backtracking Rate,Two-proportion z-test,Test < Control,Test > Control,0.2977,0.2057,0.092,1.0000,Fail to reject H0,False,"Test increased backtracking, suggesting more users moved backwards in the process."
 Repeated Steps Rate,Two-proportion z-test,Test < Control,Test > Control,0.4735,0.378,0.0955,1.0000,Fail to reject H0,False,"Test increased repeated steps, suggesting more repeated interactions or uncertainty."
 Median Completion Time,Mann-Whitney U test,Test < Control,Test < Control,3.95,4.5167,-0.5667,<0.0001,Reject H0,True,Test completed sessions were faster than Control.
