@@ -202,10 +202,20 @@ statsmodels
 
 # Project Type
 
-Data Analytics | Product Analytics | A/B Testing | UX Analysis
+Data Analytics | Product Analytics | A/B Testing |
 
 ---
 
 # Author
 
-Created as part of a digital analytics and experimentation challenge project.
+Johannes, Pollob, Husseim, Mykyta
+
+---
+
+# Additional resources 
+
+Tableau Dashboard:
+KPI:  https://public.tableau.com/app/profile/husseim.stuck/viz/VisualizationsBootcamp/Dashboard1?publish=yes
+Client KPI:  https://public.tableau.com/app/profile/husseim.stuck/viz/ClientKPI/Dashboard1?publish=yes
+Completion/Friction:  https://public.tableau.com/app/profile/mykyta.riabchynskyi/viz/Book555_17780734185880/Dashboard2?publish=yes
+Kanban:  https://trello.com/invite/b/69fb6114c784560b1731f115/ATTI59d93f6913fb65515cee5baadf2616673F006D66/vanguard-a-b-testing
