@@ -214,8 +214,14 @@ Johannes, Pollob, Husseim, Mykyta
 
 # Additional resources 
 
+Presentation : https://docs.google.com/presentation/d/1HxvQvZCR1xTOd56i2DrDFUhel9XdO_IzgNuGxG7GhQ4/edit?slide=id.g3dc56ae57e6_0_98#slide=id.g3dc56ae57e6_0_98
+
 Tableau Dashboard:
+
 KPI:  https://public.tableau.com/app/profile/husseim.stuck/viz/VisualizationsBootcamp/Dashboard1?publish=yes
+
 Client KPI:  https://public.tableau.com/app/profile/husseim.stuck/viz/ClientKPI/Dashboard1?publish=yes
+
 Completion/Friction:  https://public.tableau.com/app/profile/mykyta.riabchynskyi/viz/Book555_17780734185880/Dashboard2?publish=yes
+
 Kanban:  https://trello.com/invite/b/69fb6114c784560b1731f115/ATTI59d93f6913fb65515cee5baadf2616673F006D66/vanguard-a-b-testing
